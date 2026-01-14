@@ -7,25 +7,9 @@ Currently exploring **software development**, **web technologies**, and **open-s
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, Java
-- **Web:** HTML, CSS, React
-- **Tools:** Git, GitHub, VS Code
-- **Databases:** SQLite, Firebase
-
----
-
-### 🌱 Currently Learning
-- Data Structures & Algorithms  
-- Full-Stack Web Development  
-- System Design basics  
-
----
-
-
 ### 📫 Connect With Me
 - GitHub: [@apurvakumar17](https://github.com/apurvakumar17)
-- Portfolio Website: [@apurvakumar17](https://apurvakumar17.vercel.app)
+- Portfolio Website: [apurvakumar17.vercel.app](https://apurvakumar17.vercel.app)
 
 ---
 
