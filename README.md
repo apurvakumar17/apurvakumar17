@@ -22,15 +22,10 @@ Currently exploring **software development**, **web technologies**, and **open-s
 
 ---
 
-### 📌 Projects
-- 🧾 Expense Tracker (Python + SQLite)  
-- 🌐 React Web Apps  
-- 🤖 Small automation & utility tools  
-
----
 
 ### 📫 Connect With Me
 - GitHub: [@apurvakumar17](https://github.com/apurvakumar17)
+- Portfolio Website: [@apurvakumar17](https://apurvakumar17.vercel.app)
 
 ---
 
